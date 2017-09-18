@@ -3,10 +3,6 @@
   "name": "Google.co.jp",
   "description": "Adds a search engine that searches Google.co.jp",
   "version": "1.0",
-  "icons": {
-    "48": "icons/googleg_lodp.ico",
-    "96": "icons/googleg_lodp.ico"
-  },
   "chrome_settings_overrides": {
     "search_provider": {
       "name": "Google.co.jp",
